@@ -1,6 +1,6 @@
 {
   "name": "onedionys-user-authentication",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "One Dionys (User Authentication) - A component for managing user authentication in web applications.",
   "main": "src/user-authentication.js",
   "directories": {
